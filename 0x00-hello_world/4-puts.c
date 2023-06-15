@@ -1,4 +1,3 @@
-#!/bin/bash
 #include <stdio.h>
 /* this is  a c program using puts*/
 int main(void){
