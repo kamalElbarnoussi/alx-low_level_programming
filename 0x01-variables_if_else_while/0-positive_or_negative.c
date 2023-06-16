@@ -5,7 +5,7 @@
  * main - Entry point
  *
  * Return: Always 0 (Success)
- */
+**/
 int main(void)
 {
 /* to generate a random number */
