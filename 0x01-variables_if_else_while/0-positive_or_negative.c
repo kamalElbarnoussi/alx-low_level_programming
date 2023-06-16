@@ -16,11 +16,11 @@ int main(void)
 {
 	int n;
 
-	/* Code to generate a random number */
+	/* generate a random number */
 	srand(time(0));
 	n = rand() - RAND_MAX / 2;
 
-	/* Code to determine the sign of the number */
+	/* determine the sign of the number */
 	if (n > 0)
 	{
 		printf("%d is positive\n", n);
