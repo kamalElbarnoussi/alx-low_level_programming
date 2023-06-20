@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- * main - check the code.
- *
- * Return: Always 0.
+ * _islower - check the char 
+ * @c: is the char to be checked
+ * Return: 1 if char, otherwise 0.
  */
 
 int _islower(int c)
