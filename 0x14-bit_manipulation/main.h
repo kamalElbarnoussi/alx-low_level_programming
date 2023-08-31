@@ -1,5 +1,5 @@
-#ifndef  MAIN_H_
-#define  MAIN_H_
+#ifndef _MAIN_H__
+#define _MAIN_H__
 
 unsigned int binary_to_uint(const char *b);
 void print_binary(unsigned long int n);
