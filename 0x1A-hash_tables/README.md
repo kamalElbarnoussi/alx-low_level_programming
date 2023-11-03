@@ -1,18 +1,34 @@
-# Singly linked lists
-Project done during **Full Stack Software Engineering studies** at **Alx School**. It aims to learn about linked lists in **C language**.
+# 0x1A. C - Hash tables
 
-## Technologies
-* C files are compiled using `gcc 4.8.4`
-* C files are written according to the C90 standard
-* Tested on Ubuntu 14.04 LTS
+## Tasks
 
-## Files
-All of the following files are programs written in C:
-0-hash_table_create.c
-1-djb2.c
-2-key_index.c
-3-hash_table_set.c
-4-hash_table_get.c
-5-hash_table_print.c
-5-hash_table_print.c
-100-sorted_hash_table.c
+### [0-hash_table_create](0-hash_table_create.c)
+
+This function will create a new hash table
+
+### [1-djb2](1-djb2.c)
+
+This implements the djb2 algorithum hash function.
+
+
+### [2-key_index](2-key_index.c)
+
+ function that gives you the index of a key.
+
+### [3-hash_table_set](3-hash_table_set.c)
+
+ function that adds an element to the hash table.
+
+### [4-hash_table_get](4-hash_table_get.c)
+
+ function that retrieves a value associated with a key.
+
+### [5-hash_table_print](5-hash_table_print.c)
+
+ function that prints a hash table.
+
+### [6-hash_table_delete](6-hash_table_delete.c)
+
+ function that deletes a hash table.
+
+### [100-sorted_hash_table](100-sorted_hash_table.c)
